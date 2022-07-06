@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Container from "../components/container";
 import Layout from "../components/layout";
+import Footer from "../components/footer";
 
 export default function About() {
   return (
@@ -24,6 +25,7 @@ export default function About() {
           </h2>
         </section>
       </Container>
+      <Footer />
     </Layout>
   );
 }

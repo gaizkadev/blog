@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Container from "../components/container";
+import Footer from "../components/footer";
 import Layout from "../components/layout";
 
 export default function Gaizka() {
@@ -24,6 +25,7 @@ export default function Gaizka() {
           </h2>
         </section>
       </Container>
+      <Footer />
     </Layout>
   );
 }
