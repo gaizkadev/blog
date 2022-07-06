@@ -3,6 +3,7 @@ import Container from "../components/container";
 import Layout from "../components/layout";
 import Footer from "../components/footer";
 import Head from "next/head";
+import { CMS_NAME } from "../lib/constants";
 
 export default function About() {
   return (
