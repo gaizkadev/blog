@@ -3,13 +3,12 @@ import Container from "../components/container";
 import Layout from "../components/layout";
 import Footer from "../components/footer";
 import Head from "next/head";
-import { CMS_NAME } from "../lib/constants";
 
 export default function About() {
   return (
     <Layout>
       <Head>
-        <title>{CMS_NAME}</title>
+        <title>gaizka</title>
       </Head>
       <Container>
         <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
