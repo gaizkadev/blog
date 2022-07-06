@@ -12,8 +12,16 @@ ogImage:
 
 Hola, me llamo Gaizka, y soy de un pueblito cerca de Bilbao.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Hoy, dia del chupinazo de San fermin, que ni me va ni me viene ni realmente sea un sitio en el que me ha gustado estar casi nunca, es un buen dia para comenzar este texto.
 
-## Lorem Ipsum
+Por suerte, o no, he estado varias veces en esa plaza, realizando fotografias para los multiples medios de comunicacion para los que he trabajado, colaborado, sufriado, apreciado, y despreciado.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Con esto, os queria decir que durante mucho tiempo me he dedicado a realizar fotogrtafia, de prensa, publicitaria, deportiva y alguna cosa mas, pero lo que siempre me ha gustado es la fotografia de naturaleza, descubrir nuevos lugares, y adentrarme en parajes y rincones que me relajen, me muestren la mejor de sus caras, y me tiendan esa mano de relax dentro de este estresante mundo.
+
+## Programación
+
+Durante todo ese tiempo, unos 10 años mas o menos de fotografia profesional, al llegar a casa y en los tiempos de relax, trasteaba con la programación, con Wordpress, con el Html, con el Css, y aunque el Javascript me parecia el demonio, un poco tambien.
+
+Aún asi, no he dejado de hacer fotografías, no me apetece dejarlo, y aprovechare este blog para iros enseñando poco a poco aquellas cosas que me vayan llmando la atencion. 
+
+Saludos!!

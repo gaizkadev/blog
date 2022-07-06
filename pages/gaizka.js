@@ -3,6 +3,7 @@ import Container from "../components/container";
 import Footer from "../components/footer";
 import Layout from "../components/layout";
 import { CMS_NAME } from "../lib/constants";
+import Head from "next/head";
 
 
 export default function Gaizka() {
