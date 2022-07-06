@@ -2,10 +2,14 @@ import Link from "next/link";
 import Container from "../components/container";
 import Layout from "../components/layout";
 import Footer from "../components/footer";
+import Head from "next/head";
 
 export default function About() {
   return (
     <Layout>
+      <Head>
+        <title>{CMS_NAME}</title>
+      </Head>
       <Container>
         <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
           <h2 className="text-6xl md:text-6sxl font-bold tracking-tighter leading-tight md:pr-8">
