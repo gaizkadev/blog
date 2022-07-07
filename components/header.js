@@ -14,8 +14,8 @@ export default function Header() {
         </Link>
       </h2>
       <h2 className="text-2xl md:text-4xl font-bold tracking-tighter leading-tight md:pr-8">
-        <Link href="/gaizka">
-          <a className="hover:underline">gaizka.</a>
+        <Link href="/blog">
+          <a className="hover:underline">blog.</a>
         </Link>
       </h2>
     </section>
