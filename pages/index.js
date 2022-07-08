@@ -4,6 +4,8 @@ import Layout from "../components/layout";
 import Head from "next/head";
 import { CMS_NAME } from "../lib/constants";
 import Hero from "../components/hero";
+import SubHero from "../components/subhero";
+
 
 export default function Index() {
   return (
@@ -15,6 +17,7 @@ export default function Index() {
       <Container>
         <Header />
         <Hero />
+        <SubHero />
       </Container>
     </Layout>
     </div>
