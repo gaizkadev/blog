@@ -51,12 +51,7 @@ export default function Footer() {
           </h3>
 
           <div className="flex flex-col lg:flex-row justify-end items-center lg:pl-4 lg:w-1/2 text-gray-800">
-            <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-              className="mx-3 font-bold hover:underline"
-            >
-              Linkedin
-            </a>
+            
             <a
               href={`https://github.com/gaizkadev`}
               className="mx-3 font-bold hover:underline"
