@@ -13,9 +13,9 @@ export default function Index({ allPosts }) {
   return (
     <>
       <Layout>
-        <Head>
-          <title>{CMS_NAME}</title>
-        </Head>
+       <Head>
+          <title>gaizka | skills</title>
+        </Head> 
         <Container>
           <Header />
           {heroPost && (

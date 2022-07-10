@@ -8,7 +8,7 @@ export default function About() {
   return (
     <Layout>
       <Head>
-        <title>{CMS_NAME}</title>
+        <title>gaizka | about</title>
       </Head>
       <Container>
         <Header />
