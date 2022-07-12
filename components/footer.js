@@ -4,8 +4,8 @@ import Image from "next/image";
 
 export default function Footer() {
   return (
-    <footer className="bg-accent-1 border-t border-accent-2">
-      <Container>
+    <Container>
+      <footer className=" border-t-2 border-gray-800">
         <div className="py-8 flex flex-col lg:flex-row items-center">
           <h3 className="text-xl font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 text-gray-800">
             <span>
@@ -51,7 +51,7 @@ export default function Footer() {
           </h3>
 
           <div className="flex flex-col lg:flex-row justify-end items-center lg:pl-4 lg:w-1/2 text-gray-800">
-            
+
             <a
               href={`https://github.com/gaizkadev`}
               className="mx-3 font-bold hover:underline"
@@ -60,7 +60,8 @@ export default function Footer() {
             </a>
           </div>
         </div>
-      </Container>
-    </footer>
+      </footer >
+    </Container>
+
   );
 }

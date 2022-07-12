@@ -10,7 +10,7 @@ import { Alert } from "../components/alert";
 
 export default function Index() {
   return (
-    <div className="background-image">
+    <div className="bg-red-200">
     <Layout>
       <Head>
         <title>{CMS_NAME}</title>
