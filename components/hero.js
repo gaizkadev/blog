@@ -9,14 +9,14 @@ export default function Hero() {
           >
             #Frontend Developer
           </span>
-          <h2 class="text-4xl font-black text-gray-800 xl:text-5xl">
-            <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-800 to-blue-600 ">
+          <h2 class="text-4xl font-black text-gray-800">
+            <span class="text-transparent bg-clip-text bg-gradient-to-br from-purple-200 via-purple-400 to-purple-800">
               Hola!
-            </span>{" "}
-            Soy gaizka...
+            </span>
+            &nbsp; Soy gaizka...
           </h2>
           <p class="text-xl text-gray-500">
-            Estoy abierto a proyectos freelance, asi como a trabajo remoto o presencial. 
+            Estoy abierto a proyectos freelance, asi como a trabajo remoto o presencial.
           </p>
         </div>
       </div>
