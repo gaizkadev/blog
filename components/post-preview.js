@@ -13,7 +13,7 @@ export default function PostPreview({
 }) {
   return (
     <div>
-      <div className="mb-5 hover:-translate-y-1 hover:scale-105">
+      <div className="mb-5 hover:-translate-y-1 hover:scale-105 drop-shadow-xl">
         <CoverImage
           slug={slug}
           title={title}

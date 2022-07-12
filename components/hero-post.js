@@ -13,7 +13,7 @@ export default function HeroPost({
 }) {
   return (
     <section>
-      <div className="mb-8 md:mb-16 hover:-translate-y-1 hover:scale-105">
+      <div className="mb-8 md:mb-16 hover:-translate-y-1 hover:scale-105 drop-shadow-xl">
         <CoverImage
           title={title}
           src={coverImage}
