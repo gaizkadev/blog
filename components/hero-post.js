@@ -13,7 +13,7 @@ export default function HeroPost({
 }) {
   return (
     <section>
-      <div className="mb-8 md:mb-16">
+      <div className="mb-8 md:mb-16 hover:-translate-y-1 hover:scale-105">
         <CoverImage
           title={title}
           src={coverImage}
@@ -27,7 +27,7 @@ export default function HeroPost({
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
             <Link href={`/posts/${slug}`}>
-              <a className="hover:underline">{title}</a>
+              <a className="link-underline link-underline-black hover:text-orange-500">{title}</a>
             </Link>
           </h3>
           <div className="mb-4 md:mb-0 text-lg">

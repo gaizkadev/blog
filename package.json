@@ -23,8 +23,8 @@
     "postcss": "^8.4.7",
     "tailwindcss": "^3.0.23"
   },
-  "name": "blog",
-  "description": "This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.",
+  "name": "gaizka.me",
+  "description": "gaizka | Frontend Developer Website",
   "version": "1.0.0",
   "main": "postcss.config.js",
   "directories": {
@@ -35,7 +35,7 @@
     "url": "git+https://github.com/gaizkadev/blog.git"
   },
   "keywords": [],
-  "author": "gaizkadev",
+  "author": "gaizka",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gaizkadev/blog/issues"

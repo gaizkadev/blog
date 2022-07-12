@@ -1,42 +1,30 @@
 import Head from 'next/head'
-import { CMS_NAME, HOME_OG_IMAGE_URL } from '../lib/constants'
+import { HOME_OG_IMAGE_URL } from '../lib/constants'
 
 export default function Meta() {
   return (
     <Head>
-      <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="/favicons/apple-touch-icon.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="/favicons/favicon-32x32.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="/favicons/favicon-16x16.png"
-      />
-      <link rel="manifest" href="/favicons/site.webmanifest" />
-      <link
-        rel="mask-icon"
-        href="/favicons/safari-pinned-tab.svg"
-        color="#000000"
-      />
-      <link rel="shortcut icon" href="/logo.svg" />
-      <meta name="msapplication-TileColor" content="#000000" />
-      <meta name="msapplication-config" content="/favicons/browserconfig.xml" />
-      <meta name="theme-color" content="#000" />
-      <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-      <meta
-        name="description"
-        content={`A statically generated blog example using Next.js and ${CMS_NAME}.`}
-      />
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width" />
+      <title>gaizka | Frontend Developer</title>
+      <meta name="description" content="gaizka.me Website" />
+      <meta name="theme-color" content="#f97316" />
+      <link rel="icon" href="/favicons/favicon.svg" />
+      <link rel="mask-icon" href="/favicons/mask-icon.svg" color="#000000" />
+
+      <meta property="og:url" content="https://gaizka.me" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="gaizka | Frontend Developer" />
+      <meta property="og:description" content="gaizka.me Website" />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@gaizkadev" />
+      <meta name="twitter:creator" content="@gaizkadev" />
+      <meta name="twitter:title" content="gaizka | Frontend Developer" />
+      <meta name="twitter:description" content="gaizka.me Website" />
+      <meta name="twitter:image" content={HOME_OG_IMAGE_URL} />
+
     </Head>
   )
 }

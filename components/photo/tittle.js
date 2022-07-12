@@ -18,7 +18,7 @@ export default function Tittle() {
             >
                 <div className="">
                     <p className="leading-4 ">
-                        <span className="text-yellow-600 uppercase font-bold tracking-wider text-sm block mb-1 sm:mb-2">
+                        <span className="text-orange-600 uppercase font-bold tracking-wider text-sm block mb-1 sm:mb-2">
                             Read time
                         </span>
                         <span className="block text-gray-800">4 min</span>
@@ -27,7 +27,7 @@ export default function Tittle() {
                 
                 <div className="">
                     <p className="leading-4 ">
-                        <span className="text-yellow-600 uppercase font-bold tracking-wider text-sm block mb-1 sm:mb-2">
+                        <span className="text-orange-600 uppercase font-bold tracking-wider text-sm block mb-1 sm:mb-2">
                             Published
                         </span>
                         <span className="block text-gray-800">Apr 13, 2022</span>
@@ -35,7 +35,7 @@ export default function Tittle() {
                 </div>
                 <div className="">
                     <p className="leading-4">
-                        <span className="text-yellow-600 uppercase font-bold tracking-wider text-sm block mb-1 sm:mb-2">
+                        <span className="text-orange-600 uppercase font-bold tracking-wider text-sm block mb-1 sm:mb-2">
                             Author
                         </span>
                         <a
@@ -47,7 +47,7 @@ export default function Tittle() {
                 </div>
                 <div className="">
                     <p className="leading-4">
-                        <span className="text-yellow-600 uppercase font-bold tracking-wider text-sm block mb-1 sm:mb-2">
+                        <span className="text-orange-600 uppercase font-bold tracking-wider text-sm block mb-1 sm:mb-2">
                             Photographer
                         </span>
                         <a

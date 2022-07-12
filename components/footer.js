@@ -13,22 +13,22 @@ export default function Footer() {
     <Container>
       <footer className=" border-t-2 border-gray-800 flex items-center justify-between">
         <div className="py-4 flex items-center">
-          <span>
+          <span className='hover:-translate-y-1 hover:scale-105'>
             <Image src={Html} alt="Html 5" width={24} height={24} />
           </span>
-          <span>
+          <span className='hover:-translate-y-1 hover:scale-105'>
             <Image src={Css} alt=" Css 3" width={24} height={24} />
           </span>
-          <span>
+          <span className='hover:-translate-y-1 hover:scale-105'>
             <Image src={React} alt=" React Js" width={24} height={24} />
           </span>
-          <span>
+          <span className='hover:-translate-y-1 hover:scale-105'>
             <Image src={Next} alt="Next Js" width={24} height={24} />
           </span>
-          <span>
+          <span className='hover:-translate-y-1 hover:scale-105'>
             <Image src={Svelte} alt="Svelte" width={24} height={24} />
           </span>
-          <span>
+          <span className='hover:-translate-y-1 hover:scale-105'>
             <Image src={Github} alt="Github" width={24} height={24} />
           </span>
         </div>

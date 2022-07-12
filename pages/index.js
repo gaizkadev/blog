@@ -5,6 +5,7 @@ import Head from "next/head";
 import { CMS_NAME } from "../lib/constants";
 import Hero from "../components/hero";
 import SubHero from "../components/subhero";
+import Footer from "../components/footer"
 
 
 export default function Index() {
@@ -17,6 +18,7 @@ export default function Index() {
         <Header />
         <Hero />
         <SubHero />
+        <Footer />
       </Container>
     </Layout>
   );

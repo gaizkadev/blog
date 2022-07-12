@@ -9,7 +9,7 @@ export default function SubHero() {
     return (
         <Container>
             <div className='grid grid-cols-3 gap-6 my-10'>
-                <div className='drop-shadow-2xl'>
+                <div className='drop-shadow-2xl hover:-translate-y-1 hover:scale-105'>
                     <Image
                         className='rounded-lg'
                         alt="Itxina"
@@ -19,7 +19,7 @@ export default function SubHero() {
                         height={600}
                     />
                 </div>
-                <div className='drop-shadow-2xl'>
+                <div className='drop-shadow-2xl hover:-translate-y-1 hover:scale-105'>
                     <Image
                         className='rounded-lg'
                         alt="Itxina"
@@ -29,7 +29,7 @@ export default function SubHero() {
                         height={600}
                     />
                 </div>
-                <div className='drop-shadow-2xl'>
+                <div className='drop-shadow-2xl hover:-translate-y-1 hover:scale-105'>
                     <Image
                         className='rounded-lg'
                         alt="Itxina"

@@ -10,7 +10,7 @@ export default function Hero() {
             #Frontend Developer
           </span>
           <h2 class="text-4xl font-black text-gray-800">
-            <span class="text-transparent bg-clip-text bg-gradient-to-br from-purple-200 via-purple-400 to-purple-800">
+            <span class="text-transparent bg-clip-text bg-gradient-to-br from-orange-200 to-orange-500">
               Hola!
             </span>
             &nbsp; Soy gaizka...
