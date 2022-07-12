@@ -9,7 +9,6 @@ import SubHero from "../components/subhero";
 
 export default function Index() {
   return (
-    <div className="bg-red-200">
     <Layout>
       <Head>
         <title>{CMS_NAME}</title>
@@ -20,6 +19,5 @@ export default function Index() {
         <SubHero />
       </Container>
     </Layout>
-    </div>
   );
 }
