@@ -5,7 +5,7 @@ coverImage: '/assets/blog/preview/cover.jpg'
 date: '2022-07-06T05:35:07.322Z'
 author:
   name: gaizka 
-  picture: '/logo.jpg'
+  picture: '/logo.png'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---

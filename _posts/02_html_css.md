@@ -1,16 +1,16 @@
 ---
 title: 'Html5 y Css3'
-excerpt: 'Durante mis primeros años de programación me dedique principalmnete a construir webs con Html y Css...'
+excerpt: 'Durante mis primeros años de programación me dedique principalmente a construir webs con Html y Css...'
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2022-07-10T05:35:07.322Z'
 author:
   name: gaizka
-  picture: '/logo.jpg'
+  picture: '/logo.png'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
 
-Durante mis primeros años de programación me dedique principalmnete a construir webs con Html y Css. Entender el funcionamiento, su arquitectura, y ver como se pintaban en el navegador aquellas transiciones y efectos que con mayor o menor acierto iba creando en el editor de texto.
+Durante mis primeros años de programación me dedique principalmente a construir webs con Html y Css. Entender el funcionamiento, su arquitectura, y ver como se pintaban en el navegador aquellas transiciones y efectos que con mayor o menor acierto iba creando en el editor de texto.
 
 En aquellos comienzos me gustaban especialmente aquellas webs creadas como si estuvieran escritas a mano, escaneando textos, limpiandolos en photoshop, etc. A menudo hacia una, la borraba, y seguia con otra. 
 

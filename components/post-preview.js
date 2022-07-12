@@ -18,6 +18,7 @@ export default function PostPreview({
           slug={slug}
           title={title}
           src={coverImage}
+          layout="intrinsic"
           height={278}
           width={556}
         />
