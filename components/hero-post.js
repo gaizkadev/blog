@@ -27,15 +27,15 @@ export default function HeroPost({
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
             <Link href={`/posts/${slug}`}>
-              <a className="link-underline link-underline-black hover:text-orange-500">{title}</a>
+              <a className="link-underline link-underline-black hover:text-orange-500 text-gray-800">{title}</a>
             </Link>
           </h3>
-          <div className="mb-4 md:mb-0 text-lg">
+          <div className="mb-4 md:mb-0 text-lg text-gray-400">
             <DateFormatter dateString={date} />
           </div>
         </div>
         <div>
-          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+          <p className="text-lg leading-relaxed mb-4 text-gray-800">{excerpt}</p>
           <Avatar name={author.name} picture={author.picture} />
         </div>
       </div>
