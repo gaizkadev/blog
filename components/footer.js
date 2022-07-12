@@ -14,22 +14,22 @@ export default function Footer() {
       <footer className=" border-t-2 border-gray-800 flex items-center justify-between">
         <div className="py-4 flex items-center">
           <span>
-            <Image src={Html} alt="Html 5" width={32} height={32} />
+            <Image src={Html} alt="Html 5" width={24} height={24} />
           </span>
           <span>
-            <Image src={Css} alt=" Css 3" width={32} height={32} />
+            <Image src={Css} alt=" Css 3" width={24} height={24} />
           </span>
           <span>
-            <Image src={React} alt=" React Js" width={32} height={32} />
+            <Image src={React} alt=" React Js" width={24} height={24} />
           </span>
           <span>
-            <Image src={Next} alt="Next Js" width={32} height={32} />
+            <Image src={Next} alt="Next Js" width={24} height={24} />
           </span>
           <span>
-            <Image src={Svelte} alt="Svelte" width={32} height={32} />
+            <Image src={Svelte} alt="Svelte" width={24} height={24} />
           </span>
           <span>
-            <Image src={Github} alt="Github" width={32} height={32} />
+            <Image src={Github} alt="Github" width={24} height={24} />
           </span>
         </div>
         <div className="flex items-center">
