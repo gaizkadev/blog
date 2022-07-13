@@ -9,7 +9,7 @@ export default function Avatar({ name, picture }) {
         className="w-12 h-12 rounded-full mr-4"
         alt={name}
       />
-      <div className="text-xl font-bold text-gray-800">{name}</div>
+      <div className="text-xl font-semibold text-gray-400">{name}</div>
     </div>
   )
 }
